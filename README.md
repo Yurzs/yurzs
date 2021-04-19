@@ -4,7 +4,6 @@
 **Yurzs/yurzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ☁️ I’m currently working on [@C2Devel](https://github.com/C2Devel)
 - 📚 I’m currently learning Python, Go, Swift
 - 📫 How to reach me  
   [<img align="left" src="./icons/linkedIn.svg" width="22px" />][linkedin_url]
