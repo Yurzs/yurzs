@@ -6,8 +6,8 @@
 
 - 📚 I’m currently learning Python, Go, Swift
 - 📫 How to reach me  
-  [<img align="left" src="./icons/linkedIn.svg" width="22px" />][linkedin_url]
-  [<img align="left" src="./icons/telegram.svg" width="22px" />][telegram_url]
+  [<img align="left" src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg" height="22px" />][linkedin_url]
+  [<img align="left" src="./icons/telegram.svg" height="22px" />][telegram_url]
 
 [linkedin_url]: https://www.linkedin.com/in/yury-sokov-8ab5a3188/
 [telegram_url]: https://t.me/yurzs
